@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently learning Hibernate<br>Reach me at doguztrk@gmail.com<br>Languages; English Native,Turkish Native
+Im currently learning Java <br>Reach me at doguztrk@gmail.com<br>Languages; English Native,Turkish Native
 
 
 ## 🌐 Socials:
